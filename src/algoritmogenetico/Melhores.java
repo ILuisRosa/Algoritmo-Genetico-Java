@@ -4,10 +4,7 @@
  */
 package algoritmogenetico;
 
-/**
- *
- * @author Lab02
- */
+
 public class Melhores {
     private Individuo individuo;
     private int indice;
