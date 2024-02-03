@@ -6,10 +6,7 @@ package algoritmogenetico;
 
 import java.util.Random;
 
-/**
- *
- * @author Lab02
- */
+
 public class Individuo {
     private int[] genotipo;
     private int fitness;
