@@ -4,10 +4,7 @@
  */
 package algoritmogenetico;
 
-/**
- *
- * @author Lab02
- */
+
 public class Controlador {
 
     private Individuo[] populacao;
